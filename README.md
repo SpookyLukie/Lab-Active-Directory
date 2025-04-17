@@ -23,18 +23,18 @@ The objective of this project is to familiarize myself with Active Directory and
 
 <p align="center">
 Manually creating users: <br/>
-<img src="https://i.imgur.com/eVqnnG4_d.png?maxwidth=520&shape=thumb&fidelity=high" height="80%" width="80%" alt="Manually creating users"/>
+<img src="https://i.imgur.com/eVqnnG4.png" height="80%" width="80%" alt="Manually creating users"/>
 <br />
 <br />
 Creating new user object:  <br/>
-<img src="https://i.imgur.com/pMNIgwY_d.png?maxwidth=520&shape=thumb&fidelity=high" height="80%" width="80%" alt="Creating new user object"/>
+<img src="https://i.imgur.com/pMNIgwY.png" height="80%" width="80%" alt="Creating new user object"/>
 <br />
 <br />
 Adding users to custom group: <br/>
-<img src="https://i.imgur.com/hXWC2zo_d.png?maxwidth=520&shape=thumb&fidelity=high" height="80%" width="80%" alt="Adding users to custom group"/>
+<img src="https://i.imgur.com/hXWC2zo.png" height="80%" width="80%" alt="Adding users to custom group"/>
 <br />
 <br />
 Enforcing new Group Policy updates:  <br/>
-<img src="https://i.imgur.com/4y65CR6_d.png?maxwidth=520&shape=thumb&fidelity=high" height="80%" width="80%" alt="Enforcing new Group Policy updates"/>
+<img src="https://i.imgur.com/4y65CR6.png" height="80%" width="80%" alt="Enforcing new Group Policy updates"/>
 <br />
 <br />
